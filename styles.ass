@@ -1,0 +1,22 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Subtitle Edit styles file
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,75.6,&H00FFFFFF,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Glowy,Roboto Medium,88.9,&H00FFFFFF,&H0000FFFF,&H40000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,1,5,10,10,10,1
+Style: Border,Roboto Medium,75.6,&H00FFFFFF,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,1,5,0.0,2,10,10,10,1
+Style: AeonAir,Roboto Medium,75.6,&H00FFA3DB,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Samifying,Roboto Medium,75.6,&H00579EFF,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: TrickGMD,Roboto Medium,75.6,&H009283FF,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: WolveZ,Roboto Medium,75.6,&H00C1FF71,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Name,Roboto Medium,75.6,&H80FFFFFF,&H0000FFFF,&HA0000000,&HA0000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Varium,Roboto Medium,75.6,&H00FF8EFF,&H0000FFFF,&H40000000,&H40000000,0,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.91,0:00:33.91,Default,,0,0,0,,My Styles :)

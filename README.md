@@ -3,3 +3,4 @@ Keeping track of all the manually written subtitles available on Samifying's [Yo
 
 ### Using Advanced Sub Station Alpha (.ass) subtitles
 Refer to [arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
+You can also import styles from [styles.ass](#/styles.ass)
